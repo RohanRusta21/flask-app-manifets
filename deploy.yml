@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: flask-app
-          image: wededo4644/flask-app:5fc1c2847ce0c5215b936747b4f0864963f2acfa
+          image: wededo4644/flask-app:c05e5e61e269389dec53b01d14043ca4a2e545e4
           imagePullPolicy: Always
           ports:
             - containerPort: 5000
